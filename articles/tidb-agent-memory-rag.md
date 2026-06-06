@@ -3,7 +3,7 @@ title: "5社のAIエージェントの“共有記憶”を、専用ベクトル
 emoji: "🧠"
 type: "tech"
 topics: ["tidb", "rag", "vectorsearch", "ai", "llm"]
-published: false
+published: true
 ---
 
 > Zenn Fes Spring 2026 / TiDBテーマ「AIでの情報検索(RAG等)やAIエージェントのメモリ機能」応募記事。
