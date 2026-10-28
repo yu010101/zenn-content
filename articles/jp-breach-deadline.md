@@ -3,7 +3,7 @@ title: "個人情報の漏えい報告の期限を、施行規則とガイドラ
 emoji: "📅"
 type: "tech"
 topics: ["javascript", "nodejs", "security", "oss", "privacy"]
-published: false
+published: true
 ---
 
 個人情報の漏えい等が起きたときの、個人情報保護委員会への報告（速報・確報）の期限を計算する小さなライブラリと CLI を公開しました。依存パッケージなし、Node.js 18 以上、MIT です。
